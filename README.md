@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=000000&size=22&pause=1000&width=435&lines=I'm+Fajar+Fauzian;I'm+Frontend+Developer;I'm+UI+Designer;I'm+Web+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+## Hi there 👋, I'm Fajar Fauzian
 
 Good design isn't just about looking cool, but also about how it feels when you use it
 

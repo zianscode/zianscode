@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-I'm Fajar Fauzian, a frontend developer and tech enthusiast passionate about building modern, responsive, and user-friendly web and mobile applications.
+I'm Fajar Fauzian, a frontend developer and tech enthusiast passionate about building modern, responsive, and user friendly web and mobile applications.
 
 ## 🚀 Expertise
 

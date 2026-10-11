@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-I'm Fajar Fauzian, a frontend developer and tech enthusiast passionate about building modern, responsive, and user-friendly web and mobile applications.
+I'm Fajar Fauzian, a frontend developer and tech enthusiast passionate about building modern, responsive, and user friendly web and mobile applications.
 
 ## 🚀 Expertise
 
@@ -17,4 +17,4 @@ When I'm not coding, you'll usually find me exploring new technologies, improvin
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fajarfauzian/)&nbsp;&nbsp;[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ffauzianc_/)&nbsp;&nbsp;[![Email](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:fajarfauzian53@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fajarfauzian/)&nbsp;&nbsp;[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ffauzian_.0/)&nbsp;&nbsp;[![Email](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:fajarfauzian53@gmail.com)
